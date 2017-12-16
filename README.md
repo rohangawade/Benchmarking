@@ -6,4 +6,6 @@ respect to the standartd benchmark tools like Linpack, Stream, IOZone and IPerf 
 
 Technology: C language.
 
-Environment: CentOS 7 Linux for the OS, OpenStack and Baremetal for the platform in Chameleon environment
+Environment:
+OS - CentOS 7 Linux. 
+Platform : OpenStack and Baremetal platform in Chameleon environment
