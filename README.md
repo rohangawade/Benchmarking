@@ -4,7 +4,7 @@ Benchmarking different parts of a computer system, CPU, Memory, Disk, and Networ
 Varying the number of threads and blocksize and observing and analyzing the performance of the different parts with
 respect to the standartd benchmark tools like Linpack, Stream, IOZone and IPerf and analyzing the performance.
 
-Technology: C language.
+Technology: C and Java.
 
 Environment:
 OS - CentOS 7 Linux. 
